@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Timeline
 
 ". . . all history is too small for even me;
@@ -22,7 +21,3 @@ We are launching this project as a family project.  However, our family has alwa
 If you choose to contribute to this project, you are welcome to join this community of amateur historians.  
 
 However, if you are open-hearted and kind, you are very likely to find yourself also welcome into our family.
-=======
-# TimeLine
-A collaborative study of history 
->>>>>>> 54766754113546ae5efc6e009aef449c18224659
