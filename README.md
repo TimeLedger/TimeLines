@@ -7,7 +7,7 @@ Facts, numbers, and names are not history.
 
 A collection of facts, numbers, and names is no more history than a map is the terrian it represents.  
 
-History is storytelling. (test)
+History is storytelling.
 
 It is a special kind of storytelling that is structured, inspired, and (to some degree) constrained by our understanding of data, reanimated by our own experiences and imaginations. 
 
